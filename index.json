@@ -1,0 +1,9 @@
+[
+  {
+    "name": "My Custom Repo",
+    "description": "My first Zangetsu Repo",
+    "manifestVersion": 1,
+    "extensionVersion": "1.0.0",
+    "url": "https://raw.githubusercontent.com/আপনার_GitHub_ইউজারনেম/zangetsu-repo/main/provider.js"
+  }
+]
